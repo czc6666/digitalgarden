@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc/5/python//python/3-python/312-global-nonlocal/","dgPassFrontmatter":true,"created":"2024-12-02T21:34:50.138+08:00","updated":"2024-12-07T17:35:51.304+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/5-就业/黑马 python+大数据课/笔记/python学习/3-python高级/312-关键字global和nonlocal/","dgPassFrontmatter":true,"created":"2024-12-02T21:34:50.138+08:00","updated":"2024-12-07T17:35:51.304+08:00"}
 ---
 
 

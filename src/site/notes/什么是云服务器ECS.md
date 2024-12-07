@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ecs/","dgPassFrontmatter":true,"created":"2024-12-07T21:38:55.304+08:00","updated":"2024-12-07T23:52:45.166+08:00"}
+{"dg-publish":true,"permalink":"/什么是云服务器ECS/","dgPassFrontmatter":true,"created":"2024-12-07T21:38:55.304+08:00","updated":"2024-12-07T23:52:45.166+08:00"}
 ---
 
 

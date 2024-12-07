@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc/5/python//python/0/random/","dgPassFrontmatter":true,"created":"2024-10-16T15:48:22.754+08:00","updated":"2024-12-07T17:35:33.859+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/5-就业/黑马 python+大数据课/笔记/python学习/0-模块/随机模块 random/","dgPassFrontmatter":true,"created":"2024-10-16T15:48:22.754+08:00","updated":"2024-12-07T17:35:33.859+08:00"}
 ---
 
 

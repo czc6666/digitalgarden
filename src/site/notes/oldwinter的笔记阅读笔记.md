@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldwinter/","dgPassFrontmatter":true,"created":"2024-12-07T16:31:35.572+08:00","updated":"2024-12-07T16:54:03.544+08:00"}
+{"dg-publish":true,"permalink":"/oldwinter的笔记阅读笔记/","dgPassFrontmatter":true,"created":"2024-12-07T16:31:35.572+08:00","updated":"2024-12-07T16:54:03.544+08:00"}
 ---
 
 
