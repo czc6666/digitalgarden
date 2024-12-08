@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/1-obsidian笔记/obsidian插件/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:22.321+08:00","updated":"2024-12-08T11:29:28.383+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/1-obsidian笔记/obsidian插件/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:22.321+08:00","updated":"2024-12-08T17:15:03.070+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 # 自动添加路标插件 waypoint 
 - 生成一个文件夹的目录树（实时更新）在一个文件中
 - [自动添加路标 Waypoint ｜ Obsidian神插件\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1zb421H71s)
-- 在文件夹下同名文件中敲`\%\% Waypoint \%\%`然后就能自动生成实时更新的目录树
+- 在文件夹下同名文件中**手敲**     \%\% Waypoint \%\%    然后就能自动生成实时更新的目录树
 - 不能在知识库的根目录搞这个
 
 # 远程多端同步插件
