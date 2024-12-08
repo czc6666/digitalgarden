@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/5-就业/Python/python学习/3-python高级/330-html基础（前端）/","dgPassFrontmatter":true,"created":"2024-12-03T16:45:28.769+08:00","updated":"2024-12-08T12:39:45.397+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/5-就业/Python/python学习/3-python高级/330-html基础（前端）/","dgPassFrontmatter":true,"created":"2024-12-03T16:45:28.769+08:00","updated":"2024-12-08T12:47:49.652+08:00"}
 ---
 
 
@@ -10,12 +10,11 @@ css对网页美化
 ## HTML概念与作用
 
 ### html定义
-HTML 的全称为：HyperText Mark-up Language,指的是**超文本标记语言**。标记：就是标签，<标签名称></标签名
-称>，比如:`<html></html>`、`<h1></h1>`等，标签大多数都是成对出现的。
+HTML 的全称为：HyperText Mark-up Language,指的是**超文本标记语言**。标记：就是标签， `<标签名称></标签名称>` ，比如: `<html></html>` 、  `<h1></h1>` 等，标签大多数都是成对出现的。
 
 所谓超文本，有两层含义：
 1、因为网页中还可以图片、视频、音频等内容(超越文本限制)
-2、它还可以在网页中跳转到另一个网页，与世界各地主机的网页链接(超链接文本(`<a></a>`))
+2、它还可以在网页中跳转到另一个网页，与世界各地主机的网页链接(超链接文本( `<a></a>` ))
 
 ### html作用
 最简单的脚本语言（python是最简单的编程语言）
@@ -54,12 +53,15 @@ vscode-icons：美化文件图标
 了解单标签和双标签
 
 ### html中的注释
+
 `<!-- 双标签、六级标题 -->`
 
 ### 常见的双标签
-#### 标题标签`<h1>标题</h1>`
+#### 标题标签 `<h1>标题</h1>`
+
 一共有六级标题
 可嵌套
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -77,9 +79,11 @@ vscode-icons：美化文件图标
 </body>
 </html>
 ```
-#### 段落标签`<p1>内容</01>`
+#### 段落标签 `<p1>内容</01>`
+
 每段都是个段落
-#### 布局标签`<div></<div>`
+#### 布局标签 `<div></<div>`
+
 负责整个网页的结构
 div+css专门用来做网页布局
 
@@ -101,9 +105,11 @@ div+css专门用来做网页布局
 </html>
 ```
 
-#### 有序列表`<ol></ol>`
+#### 有序列表 `<ol></ol>
+`
 会自动添加序号，类似于md的“`1.`”
-#### 无序列表`<ul></ul>`
+#### 无序列表 `<ul></ul>`
+
 自动添加“·”，类似与md 的“`- `”
 
 ```html
@@ -122,30 +128,32 @@ div+css专门用来做网页布局
 
 #### 超文本链接标签
 一种双标签，从一个页面跳转到另一个页面
+
 ```html
 <a href="URL">content</a>
 ```
 ### 常见的单标签
  只有开始标签没有结束标签
 
-#### 换行标签`<br>`
+#### 换行标签 `<br>`
 文本的换行需要通过换行标签来实现，否则就在一坨
 一个换行标签不行就两个换行标签，换两行
 
-#### 水平线标签`<hr>`
+#### 水平线标签 `<hr>`
 
-#### 图片标签（img标签）`<img src="a.jpg">`
+#### 图片标签（img标签） `<img src="a.jpg">`
 标签里有属性
 `<!--img标签，图片标签=><img 属性=属性值>-->`
 
-
 两个参数↓
+
 ```html
 <img src="图片地址" alt="当图片无法显示时，所提示的文字信息">
 ```
 图片地址可以来源网络
 
-### 表格标签`<table></table>`
+### 表格标签 `<table></table>`
+
 ```html
     <table border="1"(边框宽度)>
         <tr></tr>
@@ -158,10 +166,12 @@ div+css专门用来做网页布局
         </tr>
     </table>
 ```
-### 表单标签（双标签）`<form></form>`
+### 表单标签（双标签） `<form></form>`
+
 表单用于**搜集**不同类型的**用户输入**（用户输入的数据），然后可以把用户数据提交到web服务器（Python）。（前端到后端）
 
 下面的代码包括：标签，输入框，单选框，复选框，下拉菜单选择，文本输入框，提交和重置按钮
+
 ```html
     <form></form>
         <label for="username">用户名：</label>
@@ -203,27 +213,35 @@ method属性设置表单提交的方式，一般有“GET"方式和“POST"方�
 
 它们定义了表单的行为和数据的处理方式
 action：表单发送的URL，例如↓
+
 ```html
 <form action="submit_form.php">
 ```
+
 method：数据发送到服务器时应使用的HTTP方法，有post和get
 	get：将表单数据附加到action URL后面，并在浏览器的地址栏中显示这些数据
 	post：将表单数据包含在HTTP请求的主体中，不会在浏览器地址栏中显示这些数据
 例如↓
+
 ```html
 <form method="post">
 ```
+
 name：为表单元素指定一个名称
+
 ```html
 <input type="text" name="username">
 ```
+
 value：为表单元素定义初始值
+
 ```html
 <input type="submit" value="Submit">
 ```
 
 表单的一个栗子
 提交到baidu.com，提交方法是post
+
 ```html
     <form action="http://www.baidu.com" method="post">
         <label for="username">用户名：</label>
@@ -236,6 +254,7 @@ value：为表单元素定义初始值
         <input type="reset" value="重置">
     </form>
 ```
+
 ## html中的路径问题
 
 ### 绝对路径
