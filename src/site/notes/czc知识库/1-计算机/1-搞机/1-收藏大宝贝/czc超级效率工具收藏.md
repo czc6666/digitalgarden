@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/1-计算机/1-搞机/1-收藏大宝贝/czc超级效率工具收藏/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:19.893+08:00","updated":"2024-12-08T00:36:59.333+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/1-计算机/1-搞机/1-收藏大宝贝/czc超级效率工具收藏/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:19.893+08:00","updated":"2024-12-08T11:32:13.367+08:00"}
 ---
 
 
@@ -19,6 +19,8 @@
 光速搜索电脑里的任何文件，吊打windows自带搜索（降维打击）
 开文件服务器
 [Everything：windows系统无敌文件搜索工具](Everything：windows系统无敌文件搜索工具.md)
+[everything笔记](everything笔记.md)
+
 
 # spacesniffer
 磁盘空间占用大小可视化
