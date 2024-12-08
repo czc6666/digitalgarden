@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/1-obsidian笔记/子/obsidian 文件链接引用块/","dgPassFrontmatter":true,"created":"2024-06-19T16:11:44.103+08:00","updated":"2024-12-08T11:22:09.388+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/1-obsidian笔记/子/obsidian 文件链接引用块/","dgPassFrontmatter":true,"created":"2024-06-19T16:11:44.103+08:00","updated":"2024-12-08T16:10:32.056+08:00"}
 ---
 
 
 ![举个栗子|100](/img/user/czc知识库/9-无奇不有/9-附件/附件/举个栗子.png)
-[obsidian笔记](obsidian笔记.md#^05e012)
+[obsidian](obsidian.md#^05e012)
 # wiki链接：
 方法：正常按两个中括号，然后输上标符号，就能快捷打开块选择器
 

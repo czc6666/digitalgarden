@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/czc知识库框架构建思路过程/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:22.245+08:00","updated":"2024-12-08T11:31:47.963+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/czc知识库框架构建思路过程/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:22.245+08:00","updated":"2024-12-08T16:10:32.110+08:00"}
 ---
 
 
@@ -34,7 +34,7 @@ Zotero也是由**目录联接**，源文件在用学校教育邮箱注册的OneD
 
 临时：
 现在总库大小就2.多g，直接全放个人网盘好了，这样手机也能看文献，那么在这个框架基础上，在个人OneDrive中联接个zotero，手机中直接把onesyncfiles作为总库文件夹，手机上就手动更新配置文件
-[obsidian笔记](obsidian笔记.md)
+[obsidian](obsidian.md)
 
 20231220
 
