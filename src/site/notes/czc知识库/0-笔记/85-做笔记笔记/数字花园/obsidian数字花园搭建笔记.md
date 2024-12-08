@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/数字花园/obsidian数字花园搭建笔记/","dgPassFrontmatter":true,"created":"2024-12-07T16:42:19.103+08:00","updated":"2024-12-08T14:26:01.748+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/数字花园/obsidian数字花园搭建笔记/","dgPassFrontmatter":true,"created":"2024-12-07T16:42:19.103+08:00","updated":"2024-12-08T14:28:50.540+08:00"}
 ---
 
 
@@ -11,7 +11,9 @@ vercel不支持中文文件夹和文件名，目前没找到原因
 
 在 digital garden官网有快速搭建方案
 
-Netlify数字花园部署网站[Site overview \| czc-digital-garden \| Netlify](https://app.netlify.com/sites/czc-digital-garden/overview)
+
+Netlify数字花园部署网站管理页面[Site overview \| czc-dg \| Netlify](https://app.netlify.com/sites/czc-dg/overview)
+我的数字花园网站链接：[主页](https://czc-dg.netlify.app/)
 
 步骤
 - digital garden官网点一键部署链接，[Hosting alternatives](https://dg-docs.ole.dev/advanced/hosting-alternatives/)，然后绑定自己的github
