@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/1-obsidian笔记/obsidian笔记/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:22.340+08:00","updated":"2024-12-08T11:29:23.106+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/0-笔记/85-做笔记笔记/1-obsidian笔记/obsidian笔记/","dgPassFrontmatter":true,"created":"2024-06-18T17:45:22.340+08:00","updated":"2024-12-08T12:03:10.002+08:00"}
 ---
 
 
@@ -52,7 +52,7 @@
 >###### 6
 
 # markdown链接
-[[markdown链接笔记\|markdown链接笔记]]
+[markdown的链接](markdown的链接.md)
 # typora能用的在这都能用（base on mark[typora使用笔记](typora使用笔记.md)笔记.md)，so，在这也尽量照顾一下typora，玩意哪天想用回typora和win的explorer来管理知识库了呢。。。。。。。。。（现在基本确定不可能了，**obsidian无敌**）
 
 # 零零散散
