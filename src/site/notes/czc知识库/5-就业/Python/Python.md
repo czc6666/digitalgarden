@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/5-就业/Python/Python/","dgPassFrontmatter":true,"created":"2024-12-08T17:01:43.235+08:00","updated":"2024-12-08T17:14:12.887+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/5-就业/Python/Python/","dgPassFrontmatter":true,"created":"2024-12-08T17:01:43.235+08:00","updated":"2024-12-08T17:15:40.409+08:00"}
 ---
 
 
@@ -18,7 +18,21 @@
 					- **Bob**
 
 		- **python进阶**
-- **[python笔记](./python%E7%AC%94%E8%AE%B0/python%E7%AC%94%E8%AE%B0.md)**
+- **python笔记**
+	- [程序中添加可视化进图条](./python%E7%AC%94%E8%AE%B0/%E7%A8%8B%E5%BA%8F%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%8F%AF%E8%A7%86%E5%8C%96%E8%BF%9B%E5%9B%BE%E6%9D%A1.md)
+	- [多线程编程 python](./python%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%20python.md)
+	- [关闭jupyter服务器 在pycharm中](./python%E7%AC%94%E8%AE%B0/%E5%85%B3%E9%97%ADjupyter%E6%9C%8D%E5%8A%A1%E5%99%A8%20%E5%9C%A8pycharm%E4%B8%AD.md)
+	- [什么是python对象](./python%E7%AC%94%E8%AE%B0/%E4%BB%80%E4%B9%88%E6%98%AFpython%E5%AF%B9%E8%B1%A1.md)
+	- [pip安装 修改清华大学源 python库 pip命令秒安装sklearn库 pip install 清华源](./python%E7%AC%94%E8%AE%B0/pip%E5%AE%89%E8%A3%85%20%E4%BF%AE%E6%94%B9%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%BA%90%20python%E5%BA%93%20pip%E5%91%BD%E4%BB%A4%E7%A7%92%E5%AE%89%E8%A3%85sklearn%E5%BA%93%20pip%20install%20%E6%B8%85%E5%8D%8E%E6%BA%90.md)
+	- [python class类编程 面向对象编程](./python%E7%AC%94%E8%AE%B0/python%20class%E7%B1%BB%E7%BC%96%E7%A8%8B%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.md)
+	- [python windows反斜杠的问题](./python%E7%AC%94%E8%AE%B0/python%20windows%E5%8F%8D%E6%96%9C%E6%9D%A0%E7%9A%84%E9%97%AE%E9%A2%98.md)
+	- [python：检查路径是否存在，不存在就递归创建此路径](./python%E7%AC%94%E8%AE%B0/python%EF%BC%9A%E6%A3%80%E6%9F%A5%E8%B7%AF%E5%BE%84%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%EF%BC%8C%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B0%B1%E9%80%92%E5%BD%92%E5%88%9B%E5%BB%BA%E6%AD%A4%E8%B7%AF%E5%BE%84.md)
+	- [Python的内置函数或内置方法](./python%E7%AC%94%E8%AE%B0/Python%E7%9A%84%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0%E6%88%96%E5%86%85%E7%BD%AE%E6%96%B9%E6%B3%95.md)
+	- [python的字典](./python%E7%AC%94%E8%AE%B0/python%E7%9A%84%E5%AD%97%E5%85%B8.md)
+	- [python关键字：with](./python%E7%AC%94%E8%AE%B0/python%E5%85%B3%E9%94%AE%E5%AD%97%EF%BC%9Awith.md)
+	- [python基础学习笔记 蟒蛇书](./python%E7%AC%94%E8%AE%B0/python%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E8%9F%92%E8%9B%87%E4%B9%A6.md)
+	- [requirement文件安装环境命令 python 配置](./python%E7%AC%94%E8%AE%B0/requirement%E6%96%87%E4%BB%B6%E5%AE%89%E8%A3%85%E7%8E%AF%E5%A2%83%E5%91%BD%E4%BB%A4%20python%20%E9%85%8D%E7%BD%AE.md)
+	- [with语句](./python%E7%AC%94%E8%AE%B0/with%E8%AF%AD%E5%8F%A5.md)
 - [Python后端](./Python%E5%90%8E%E7%AB%AF.md)
 - **python学习**
 	- **0-模块**
