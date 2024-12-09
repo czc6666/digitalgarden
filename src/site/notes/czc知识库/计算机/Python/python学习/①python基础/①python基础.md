@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/计算机/Python/python学习/①python基础/①python基础/","dgPassFrontmatter":true,"created":"2024-12-08T22:56:23.004+08:00","updated":"2024-12-08T23:00:52.193+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/计算机/Python/python学习/①python基础/①python基础/","dgPassFrontmatter":true,"created":"2024-12-08T22:56:23.004+08:00","updated":"2024-12-09T14:51:07.232+08:00"}
 ---
+
+这是czc的python系统学习之python基础知识
+
 
 # 基础阶段学啥
 
