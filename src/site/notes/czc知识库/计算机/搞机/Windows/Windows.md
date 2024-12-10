@@ -1,16 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/czc知识库/计算机/搞机/Windows/Windows/","dgPassFrontmatter":true,"created":"2024-12-08T22:35:12.164+08:00","updated":"2024-12-08T22:45:16.196+08:00"}
+{"dg-publish":true,"permalink":"/czc知识库/计算机/搞机/Windows/Windows/","dgPassFrontmatter":true,"created":"2024-12-08T22:35:12.164+08:00","updated":"2024-12-10T16:53:42.539+08:00"}
 ---
+
 
 # 相关笔记：
 
 
-- **不重要**
-	- [[czc知识库/计算机/搞机/Windows/不重要/Microsoft Compatibility Telemetry占用系统cpu\|Microsoft Compatibility Telemetry占用系统cpu]]
+
 - [[czc知识库/计算机/搞机/Windows/端口转发笔记 windows\|端口转发笔记 windows]]
 - [[czc知识库/计算机/搞机/Windows/各种网页视频下载，加密m3u8下载，网课下载\|各种网页视频下载，加密m3u8下载，网课下载]]
-- **截的图**
-
 - [[czc知识库/计算机/搞机/Windows/禁用和开启虚拟化cmd命令 关闭开机自动加载hyperv 解决vmware冲突\|禁用和开启虚拟化cmd命令 关闭开机自动加载hyperv 解决vmware冲突]]
 - [[czc知识库/计算机/搞机/Windows/开关休眠功能 cmd命令\|开关休眠功能 cmd命令]]
 - **老笔记**
@@ -33,6 +31,7 @@
 - **bat脚本类**
 	- [[czc知识库/计算机/搞机/Windows/bat脚本类/bat脚本笔记\|bat脚本笔记]]
 - [[czc知识库/计算机/搞机/Windows/dism修复系统命令 cmd\|dism修复系统命令 cmd]]
+- [[czc知识库/计算机/搞机/Windows/Microsoft Compatibility Telemetry占用系统cpu\|Microsoft Compatibility Telemetry占用系统cpu]]
 - [[czc知识库/计算机/搞机/Windows/powershell设置端口转发\|powershell设置端口转发]]
 - [[czc知识库/计算机/搞机/Windows/SMB局域网共享文件 技巧 smb协议\|SMB局域网共享文件 技巧 smb协议]]
 - [[czc知识库/计算机/搞机/Windows/win10 cmd命令行激活系统命令 windows\|win10 cmd命令行激活系统命令 windows]]
@@ -48,6 +47,7 @@
 
 
 
+---
 
 # 下面是一些乱七八糟的
 
